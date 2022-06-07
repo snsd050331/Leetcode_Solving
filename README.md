@@ -9,3 +9,5 @@
  刪除重複項，使每個元素只出現一次
 ### 27.Remove Element
  給定一個整數數組nums和一個整數val，刪除所有出現val在nums列表中
+### 28.Implement strStr()
+ 搜尋needle在haystack中第一次出現的索引位置
