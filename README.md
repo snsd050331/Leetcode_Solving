@@ -5,3 +5,5 @@
  查找字符串數組中最長的公共前綴字符串。
 ### 3.Valid Parentheses
  確定輸入字符串是否有效
+### 4.Remove Duplicates from Sorted Array
+ 刪除重複項，使每個元素只出現一次
