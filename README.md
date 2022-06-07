@@ -7,3 +7,5 @@
  確定輸入字符串是否有效
 ### 4.Remove Duplicates from Sorted Array
  刪除重複項，使每個元素只出現一次
+### 5.Remove Element
+ 給定一個整數數組nums和一個整數val，刪除所有出現val在nums列表中
