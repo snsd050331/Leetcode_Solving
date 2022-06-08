@@ -13,3 +13,7 @@
  搜尋needle在haystack中第一次出現的索引位置
 ### 35.Search Insert Position
  找到目標，返回索引。如果不是，返回順序插入的位置索引
+### 53.Maximum Subarray
+ 找到總和最大的連續子數組並返回總和
+### 58.Length of Last Word
+ 返回字符串最後單詞的長度
