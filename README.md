@@ -11,3 +11,5 @@
  給定一個整數數組nums和一個整數val，刪除所有出現val在nums列表中
 ### 28.Implement strStr()
  搜尋needle在haystack中第一次出現的索引位置
+### 35.Search Insert Position
+ 找到目標，返回索引。如果不是，返回順序插入的位置索引
