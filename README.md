@@ -2,7 +2,7 @@
 ### 13.Roman to Integer
  給定羅馬數字，將其轉換為整數
 ### 14.Longest Common Prefix
- 查找字符串數組中最長的公共前綴字符串。
+ 查找字符串數組中最長的公共前綴字符串
 ### 20.Valid Parentheses
  確定輸入字符串是否有效
 ### 26.Remove Duplicates from Sorted Array
@@ -17,3 +17,5 @@
  找到總和最大的連續子數組並返回總和
 ### 58.Length of Last Word
  返回字符串最後單詞的長度
+### 70.Climbing Stairs
+ n階梯，可以通過多少種不同的方式爬上
