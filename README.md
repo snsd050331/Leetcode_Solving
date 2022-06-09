@@ -1,5 +1,5 @@
 # Leetcode_Solving
-# Easy
+## Easy
 ### 13.Roman to Integer
  給定羅馬數字，將其轉換為整數
 ### 14.Longest Common Prefix
@@ -22,6 +22,7 @@
  給定兩二進製字符，將總和作二進製字符串返回
 ### 70.Climbing Stairs
  n階梯，可以通過多少種不同的方式爬上
-# Medium
+
+## Medium
 ### 167.Two Sum II - Input Array Is Sorted
  找到兩個數字，相加為特定target數字，返回索引位置
